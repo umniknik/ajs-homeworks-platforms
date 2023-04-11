@@ -1,0 +1,19 @@
+{
+  "name": "@umniknik/ajs-homeworks-platforms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/umniknik/ajs-homeworks-platforms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/umniknik/ajs-homeworks-platforms/issues"
+  },
+  "homepage": "https://github.com/umniknik/ajs-homeworks-platforms#readme"
+}
